@@ -1,0 +1,3 @@
+teste(){
+  var estudante, nota; 
+}
